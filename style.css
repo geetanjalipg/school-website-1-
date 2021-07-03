@@ -1,0 +1,110 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+    background: linear-gradient(#eb287c 0%, #16f0e5 100%);
+
+}
+
+#Welcome {
+    position: absolute;
+    top: 0;
+
+    width: 100%;
+    height: 800px;
+
+}
+
+#profile {
+    width: 175px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+
+}
+
+
+
+
+}
+
+
+
+}
+
+#name {
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+
+.menu {
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    list-style: none;
+    cursor: pointer;
+    color: azure;
+
+}
+
+.link {
+    float: left;
+    padding: 5px;
+    font-size: 15px;
+    font-family: monospace;
+    text-decoration: none;
+}
+
+.link:hover {
+    font-size: 20px;
+    color: aqua;
+    text-decoration: none;
+}
+
+#videos iframe {
+    margin: 10px;
+
+
+}
+
+#Writings a {
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+#Writings a:hover {
+    font-size: 22px;
+    color: fuchsia;
+
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu a {
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+}
+
+h2 {
+
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+h1 {
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
